@@ -1,0 +1,8 @@
+nombre=input("Ingrese nombre: ")
+apellido=input("Ingrese apellido: ")
+seccion=input("Ingrese seccion: ")
+sede=input("Ingrese sede: ")
+print ("Nombre: ",nombre)
+print ("apellido: ",apellido)
+print ("Seccion: ",seccion)
+print ("Sede: ",sede)
